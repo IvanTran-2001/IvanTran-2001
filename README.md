@@ -16,7 +16,7 @@ Based in Melbourne, I like turning real-world problems into clean, reliable soft
 - Built FriendChise, a multi-tenant SaaS used in a real franchise setting
 - Contributed to open-source projects like DevTasks
 - Solved 200+ LeetCode problems
-- Built a QA Wolf technical assessment project with Node.js + Playwright
+- Built a QA Wolf technical assessment project with Node.js + Playwright (awarded 220 AUD)
 
 ## Links
 - Portfolio: https://ivantran-2001.github.io
