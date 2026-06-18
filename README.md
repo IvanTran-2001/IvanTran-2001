@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ivan Tran
 
-<!--
-**IvanTran-2001/IvanTran-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack TypeScript engineer with a product mindset, building practical SaaS and open-source tools.
 
-Here are some ideas to get you started:
+Based in Melbourne, I like turning real-world problems into clean, reliable software with strong UX and solid engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- React, Next.js, TypeScript
+- Node.js, Prisma, PostgreSQL
+- Product thinking, UX, and scalable systems
+
+## Highlights
+- Built FriendChise, a multi-tenant SaaS used in a real franchise setting
+- Contributed to open-source projects like DevTasks
+- Solved 200+ LeetCode problems
+- Built a QA Wolf technical assessment project with Node.js + Playwright
+
+## Links
+- Portfolio: https://ivantran-2001.github.io
+- LinkedIn: https://www.linkedin.com/in/ivan-tran-76164017a/
+- LeetCode: https://leetcode.com/u/C0XKIES/
+- HackerRank: https://www.hackerrank.com/profile/mystoganx2001
