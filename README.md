@@ -1,8 +1,11 @@
 # Ivan Tran
 
 Full-stack TypeScript engineer with a product mindset, building practical SaaS and open-source tools.
-
 Based in Melbourne, I like turning real-world problems into clean, reliable software with strong UX and solid engineering.
+
+## Currently Working On
+- Building [FriendChise](https://friendchise.app), a real-world SaaS for a franchise client.
+- Growing through open-source contributions.
 
 ## Focus
 - React, Next.js, TypeScript
