@@ -5,6 +5,7 @@ Based in Melbourne, I like turning real-world problems into clean, reliable soft
 
 ## Currently Working On
 - Building [FriendChise](https://friendchise.app), a real-world SaaS for a franchise client.
+- Building an App Version for friendchise
 - Growing through open-source contributions.
 
 ## Focus
