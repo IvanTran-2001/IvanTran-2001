@@ -1,26 +1,87 @@
-# Ivan Tran
+# Hi, I'm Ivan Tran 👋
 
-Full-stack TypeScript engineer with a product mindset, building practical SaaS and open-source tools.
-Based in Melbourne, I like turning real-world problems into clean, reliable software with strong UX and solid engineering.
+Full-Stack Software Engineer based in Melbourne, Australia.
 
-## Currently Working On
-- Building [FriendChise](https://friendchise.app), a real-world SaaS for a franchise client.
-- Building an App Version for friendchise
-- Growing through open-source contributions.
+I enjoy designing and building software that solves real-world operational problems. My primary focus is creating scalable web applications with modern technologies while continuously improving software quality, architecture, and developer experience.
 
-## Focus
-- React, Next.js, TypeScript
-- Node.js, Prisma, PostgreSQL
-- Product thinking, UX, and scalable systems
+---
 
-## Highlights
-- Built FriendChise, a multi-tenant SaaS used by a real client (franchisee)
-- Contributed to open-source projects like DevTasks
-- Solved 200+ LeetCode problems
-- Built a QA Wolf technical assessment project with Node.js + Playwright (awarded 220 AUD)
+## 🚀 Currently Building
 
-## Links
-- Portfolio: https://ivantran-2001.github.io
-- LinkedIn: https://www.linkedin.com/in/ivan-tran-76164017a/
-- LeetCode: https://leetcode.com/u/C0XKIES/
-- HackerRank: https://www.hackerrank.com/profile/mystoganx2001
+### FriendChise
+A production multi-tenant SaaS platform designed to improve operations for franchise businesses.
+
+Features include:
+
+- 📅 Timetable & roster management
+- ✅ Task & checklist management
+- 👥 Role-based permissions
+- 📊 Analytics dashboard
+- 🔒 Multi-tenant architecture
+- ⚡ REST & tRPC APIs
+- 🤝 Open-source collaboration (20+ contributors)
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Prisma
+- PostgreSQL
+- tRPC
+- REST APIs
+
+### Testing & DevOps
+- Playwright
+- GitHub Actions
+- Docker
+- Sentry
+- Git
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- Software Architecture
+- AI-assisted Software Engineering
+- Cloud Technologies
+
+---
+
+## 📌 Featured Projects
+
+### FriendChise
+Production franchise management platform.
+
+### DevTasks
+Developer productivity tools built with React.
+
+### QA Wolf Assessment
+Automated testing using Playwright and Node.js.
+
+---
+
+## 📈 Open Source
+
+- Maintainer of FriendChise
+- Reviewed 50+ pull requests
+- Mentored contributors
+- Built with an open-source community of 20+ contributors
+
+---
+
+## 📫 Connect
+
+Portfolio: https://ivantran-2001.github.io
+
+LinkedIn: https://linkedin.com/in/ivan-tran-dev
+
+Email: mystoganx2001@gmail.com
